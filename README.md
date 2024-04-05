@@ -1,4 +1,4 @@
-# IUnico Server
+# IUnicò Server
 
 ***IUnicò Server*** is a lightweight open-source solution that easily provides an intuitive and affordable (cost-effective) back-end server infrastructure. It is designed to be efficient, fast, free and highly modular, developed using the power of the Nest.js framework. Aimed to be simple yet powerful, according to the KISS (Keep It Simple, Stupid) philosophy, it is a solution thinked to be efficient, fast, free and highly modular. It includes modules for user management, authentication, REST API services creation and WebSocket communication, with the possibility of expansion through additional modules. Currently, it is a ***work-in-progress*** project, and we welcome any form of support.
 
@@ -29,7 +29,7 @@ Your **participation** will help grow and improve this project.
 
 ## Reference
 
-- ***Website***: [Iunico Server](https://github.com/hocram/iunico-server)
+- ***Website***: [IUnicò Server](https://github.com/hocram/iunico-server)
 - ***Repository***: [Github](https://github.com/hocram/iunico-server) - https://github.com/hocram/iunico-server
 
 
@@ -142,11 +142,12 @@ Our project is currently in an early stage and is considered a work in progress.
 - [x] Initialize github project
 - [x] Create the basic project structure with the nest.js framework
 - [x] Addition of the typeorm package and SQLite database (initial for local development)
-- [x] Added user management module
-- [x] Added module for authentication and management of permissions and roles
-- [x] Added logger module
-- [x] Additional controllers and REST API services
-- [x] Added module for managing socket gateways
+- [x] User module: added user management module
+- [x] Login & Auth Module: dded module for authentication and management of permissions and roles
+- [x] Logger Module: Added logger functions
+- [x] API: additional controllers and REST API services
+- [x] Socket: Added module for managing socket gateways
+- [x] Initial setup for SQLite database
 - [ ] Add other framework and libraries
 - [ ] Redis Integration
 - [ ] Design & Codebase Refinement
@@ -154,11 +155,11 @@ Our project is currently in an early stage and is considered a work in progress.
 - [ ] Unit testing
 - [ ] FAQs Section
 - [ ] Identify new Feature to development
-- [ ] Think and Add new module
+- [ ] Think and add new module
 - [ ] Documentation Expansion
-- [ ] Community Engagement
-- [ ] Docker Integration
-- [ ] Front-End Integration (new external project)
+- [ ] Community & Sponsor Engagement
+- [ ] Docker Integration (soon as an external project)
+- [ ] Front-End Integration (soon as an external project)
 
 
 ## Contacts
