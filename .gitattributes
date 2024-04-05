@@ -1,0 +1,8 @@
+# Normalize EOL for all files that Git considers text files.
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# JS and TS files must always use LF for tools to work
+*.js eol=lf
+*.ts eol=lf
